@@ -8,6 +8,9 @@ Explain what software engineering is and discuss its importance in the technolog
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 - Develpoment of programming languages
+- Establishment of software engineering as a discipline
+- The advent of structured programming
+- The rise of agile methodologies
   
 List and briefly explain the phases of the Software Development Life Cycle.
 1.	Requirement – gathering information and documenting user’s needs.
@@ -18,6 +21,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 6.	Maintenance – upgrading of software after deployment
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 . Agile – Iterative and incremental approach
 •	Waterfall – sequential approach flowing downwards like waterfall.
 
